@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AmpElement Reddit Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "edit_message">Enter the reddit query</string>
+    <string name ="button_text">Submit</string>
+</resources>
